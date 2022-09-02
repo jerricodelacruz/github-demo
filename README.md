@@ -1,3 +1,3 @@
 # github-demo
 
-HELLO WORLD! VERSION 03
+HELLO WORLD!
